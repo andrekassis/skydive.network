@@ -73,3 +73,10 @@ During the last few weekds, we added a TripleO job to our CI. In this blog post,
 ## by Nicolas Planel, 24/07/2018
 
 Skydive Flow Matrix is a tool on top of Skydive that helps you understand which services are connecting to each other on your platform. Thanks to the Skydive SocketInfo probe, Flow Matrix will report all opened Sockets between client and server processes across hosts...
+
+
+# [DNS Data Collection](/blog/dns-for-skydive.html)
+## by Andre Kassis, 07/07/2019
+
+As the Skydive documentation states, one of the primary services Skydive aims to provide is protocol analysis. To that end, the Skydive probes managed by the agents intercept every packet inside its environment and extract protocol-specific data to present to the users for them to gather information concerning activity inside their network, identify security breaches and attacks, and enhance the quality of service...
+
